@@ -1,0 +1,15 @@
+{
+  "name": "Interstellar",
+  "robots": false,
+  "some": {
+    "main heroes": "Tars"
+  },
+
+  "space ships": {
+    "space x": true
+  },
+
+  "another galactics": {
+    "SBbc": true
+  }
+}

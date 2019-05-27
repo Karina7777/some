@@ -1,0 +1,15 @@
+{
+  "name": "Star wars",
+  "droids": true,
+  "some": {
+    "main heroes": "Chewbacca"
+  },
+
+  "space ships": {
+    "space x": false
+  },
+
+  "another galactics": {
+    "present": true
+  }
+}
